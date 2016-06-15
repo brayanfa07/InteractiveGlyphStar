@@ -15,4 +15,4 @@ Integrantes:
 
 **201157035 Brayan Fajardo Alvarado**
 
-[Acceso a la Wiki de Glifo Estrella Interactivo aquí](https://github.com/brayanfa07/GrafoCircular/wiki/Grafo-Circular-%5Bclass-CircGraph%5D)
+[Acceso a la Wiki de Glifo Estrella Interactivo aquí](https://github.com/brayanfa07/InteractiveGlyphStar/wiki/Glifo-Estrella-Interactivo)
